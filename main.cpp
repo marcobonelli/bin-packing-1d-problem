@@ -54,7 +54,7 @@ int main(){
 
     print_result(itens, boxes, qnt_box);
 
-    local_search(itens, boxes, qnt_box); //*/
+    local_search(itens, boxes, qnt_box);
 
     myfile.close();
     return 0;
